@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behavior, confession &amp; execution of the several prisoners that suffered at Tyburn on Fryday the ninth of May, 1679 viz, George Rawlins, for robbery on the highway, Thomas Benfield, for burglary, Sarah Dent, for murther, together with Tho. Pickering, drawn, hang'd and quarter'd for high-treason : giving a true account of their deportment after condemnation, pertinent expressions, and last words : published as a warning to others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27269</idno>
+            <idno type="STC">Wing B1706</idno>
+            <idno type="STC">ESTC R17692</idno>
+            <idno type="EEBO-CITATION">13400362</idno>
+            <idno type="OCLC">ocm 13400362</idno>
+            <idno type="VID">99368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 835:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behavior, confession &amp; execution of the several prisoners that suffered at Tyburn on Fryday the ninth of May, 1679 viz, George Rawlins, for robbery on the highway, Thomas Benfield, for burglary, Sarah Dent, for murther, together with Tho. Pickering, drawn, hang'd and quarter'd for high-treason : giving a true account of their deportment after condemnation, pertinent expressions, and last words : published as a warning to others.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, 1679."</note>
+                  <note>"Having perused this narrative ... I do attest that the matters therein contained are truly related; Sam. Smith, Ordinary."</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pickering, Thomas, d. 1679.</term>
+               <term>Rawlings, George, d. 1679.</term>
+               <term>Benfield, Thomas, d. 1679.</term>
+               <term>Dent, Sarah, d. 1679.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99368:1"/>
+            <pb facs="tcp:99368:1" rendition="simple:additions"/>
+            <p>THE Behaviour, Confeſsion, &amp; Execution OF The ſeveral Priſoners that ſuffered at TYBURN On <hi>Fryday</hi> the ninth of <hi>May,</hi> 1679. <hi>VIZ.</hi>
+               <list>
+                  <item>
+                     <hi>George Rawlins,</hi> For Robbery on the Highway.</item>
+                  <item>
+                     <hi>Thomas Benfield,</hi> For Burglary.</item>
+                  <item>
+                     <hi>Sarah Dent,</hi> For Murther.</item>
+               </list>
+            </p>
+            <p>Together with <hi>THO. PICKERING,</hi> Drawn, Hang'd, and Quarter'd for High-Treaſon.</p>
+            <p>GIVING A true Account of their Deportment after Condemnation, penitent Expreſſions, and laſt Words.</p>
+            <p>Publiſhed for a Warning to others.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="attestation">
+                        <p>Having peruſed this Narrative, and conceiving the ſame may be very full to Admoniſh other Ill Livers, I do Atteſt that the matters therein contained are truly Related.</p>
+                        <closer>
+                           <signed>
+                              <hi>Sam. Smith</hi> Ordinary.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LICENSED, 1679,</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99368:2"/>
+            <pb n="3" facs="tcp:99368:2" rendition="simple:additions"/>
+            <head>The Confeſſion and Execution of the Priſoners at <hi>Tyburn,</hi> &amp;c.</head>
+            <p>AT the Seſſion holden for <hi>London</hi> and <hi>Middleſex,</hi> ending <hi>May</hi> the 2d 1679. there were in all Fitfeen that received Sentence of Death. An Account of their reſpective Tryals hath already been divulg'd, to which we refer the Reader: Our Work at preſent being to ac<g ref="char:EOLhyphen"/>quaint you with their deportment after Con<g ref="char:EOLhyphen"/>demnation, as far as is remarkable, or may ſerve to caution others to avoid the evil Courſes that brought them to this untimely Deſtruction; which is the main End for which this Paper is Publiſhed.</p>
+            <p>Several of the before-mentioned unhappy and Condemned Perſons obtained his Maje<g ref="char:EOLhyphen"/>ſties gracious Reprieve; which as it was mer<g ref="char:EOLhyphen"/>cifully extended, that by Reformation they
+<pb n="4" facs="tcp:99368:3"/>may avoid deſtruction; ſo 'tis hoped that in Gratitude it will work in them ſuch a real and deep ſenſe of their former ill-ſpent Lives, and horrid Crimes, as by the Operation of Divine Grace on their Conſciences, it may ſerve to reclaim them from thoſe pernicious extravagant courſes, and put them on the ſtudy of redeeming their time by Repentance and good Actions for the future: For he or ſhe whom neither the terrors of Death, nor indulgence of Pardon can Reclaim, deſerves (if afterwards they offend) neither Mercy nor Pity.</p>
+            <p>However, ſince that gracious favour (no leſs to be expected than immerited) was kept ſtrictly private from their notice, it will not be unfit to give ſome Account in general of their Be<g ref="char:EOLhyphen"/>haviour under thoſe fatal Circumſtances.</p>
+            <p>But firſt we muſt take notice of <hi>Thomas Pickering,</hi> who being above a quarter of a year ago found guilty of High-Treaſon, and Condemned with Father <hi>Ireland</hi> and <hi>Grove,</hi> formerly Exe<g ref="char:EOLhyphen"/>cuted, for deſigning and endeavouring to Murther his Sacred Majeſty, was this day drawn on a Sledge (but not till about an hour after the reſt) and with a numerous Guard conveyed to <hi>Tyburn,</hi> and there Hang'd and Quarter'd. He was bred up a Taylor, ſometimes pretended to be a Merchant, but in truth fell in with the Jeſuits, and was admitted a Lay-brother amongſt them. The horrid Crime he was executed for was, That he de<g ref="char:EOLhyphen"/>ſigned to Kill the King, and was to have Thirty thouſand Maſſes ſaid for his Soul, if he happen'd to be cut off in, or Condemned for the ſame. He did once attempt to ſhoot his Majeſty, but Heaven (the beſt Life-guard of Kings) ordered his flint to fall out juſt in that moment, and yet his Popiſh Superiours were ſo impudent, as to make him do pennance, and whipt him ſevere<g ref="char:EOLhyphen"/>ly for his negligence, and looſing opportunity.</p>
+            <p>Mr. <hi>Ordinary</hi> on the Evening before his Execution, told him, he was come to offer his Service to fit him for his approaching Death; that it was now no time to deal ſleightly with him, but that he would beg great Repentance of God for his abomi<g ref="char:EOLhyphen"/>nable
+<pb n="5" facs="tcp:99368:3" rendition="simple:additions"/>Crimes. The particular Arguments he uſed, are too tedi<g ref="char:EOLhyphen"/>ous here to be related; the Priſoner thankt him for his good Councel, but would not permit him to pray with him, but deſi<g ref="char:EOLhyphen"/>red him to pray at home for him. At place of Execution, ac<g ref="char:EOLhyphen"/>cording to the uſual manner of thoſe Men, he would not acknow<g ref="char:EOLhyphen"/>ledge any thing of his Crimes, but repeated the Lords Prayer and Apoſtles Creed, and ſo in an obſtinate manner Perſiſted, till Executed according to Sentence.</p>
+            <p>One of them (though not pleaſed to own the particular Fact) was yet obſerved to be very penitent, acknowledging, that for his diſobedience to the pious Admonitions of his Parents, and extrava<g ref="char:EOLhyphen"/>gant life, eſpecially for theſe two years laſt paſt, <hi>viz.</hi> in Swearing, Drunkenneſs, and keeping Debaucht Company, God had moſt juſtly brought him to this terrible Sentence of Death, for a Crime of Burglary, which he was involved in (as he affirm'd) by the Ex<g ref="char:EOLhyphen"/>travagancies and Incitements of others; and therefore declared it as a neceſſary caution to all young Men, to take eſpecial Care whom they make their Conſorts, or contract a familiarity with.
+<q xml:lang="lat">Noſcitur ex ſocio, qui non cognoſcitur ex ſe.</q>
+            </p>
+            <p>He was obſerv'd, during his Impriſonment, conſtantly to at<g ref="char:EOLhyphen"/>tend the Publick Worſhip of God in the Chappel, and gave him<g ref="char:EOLhyphen"/>ſelf very much to the reading of Books of Devotion; in which Practice there is good ground to judge him very ſincere, for that the <hi>Ordinary</hi> coming many times near his Chamber-door, un<g ref="char:EOLhyphen"/>known to him, hath heard him pray very ſervently, that God would fit him for his Tryal, and ſanctifie his Diſtreſſes unto him.</p>
+            <p>Another did acknowledge he had been brought up with a Religious Education, but being obſtinate and undutiful to his Parents, which he now much lamented, as a Provoca<g ref="char:EOLhyphen"/>tion given to God to deſert him to Highway-Robbery;
+<pb n="6" facs="tcp:99368:4"/>which he confeſt he had practis'd for ſome years, yet affirm'd he never uſed violence to any perſons life: and affirm'd, that once ha<g ref="char:EOLhyphen"/>ving robb'd a perſon of 20 <hi>s.</hi> coming to Market, whom he had reaſon to believe to be a poor man, he was ſo ſmitten in Conſcience, that he could not reſt till he had inquired him out, and for reſtitution ſent him 40 <hi>s.</hi> And being de<g ref="char:EOLhyphen"/>manded why he return'd 40 <hi>s.</hi> for 20 <hi>s.</hi> taken away, he ſaid, He did it out of Confideration, for that he ſuppoſed the poor man by his rob<g ref="char:EOLhyphen"/>bing him, might looſe 20 <hi>s.</hi> which he might otherwiſe have gain'd by his Market. Which ſhews that generally, even in the moſt profli<g ref="char:EOLhyphen"/>gate perſons, God leaves his witneſs in their Conſciences to check them for ill deeds, and that there is a certain innate Principle of Ver<g ref="char:EOLhyphen"/>tue, and Ray of good Nature, which the moſt Debaucht cannot, without extream difficulty, totally extinguiſh.</p>
+            <p>But as to the Perſons that now ſuffer'd, the firſt we ſhall mention is <hi>George Rawlins,</hi> for a Robbery on the Highway near <hi>Kenſington.</hi> He had been bred a Soul<g ref="char:EOLhyphen"/>dier both here and beyond the Seas, and appeared as a perſon ſtout and bold. Mr. Ordinary, to bring him to Contrition and Repentance, thought fit, in reſpect of his
+<pb n="7" facs="tcp:99368:4" rendition="simple:additions"/>Profeſſion, to uſe this Argument: That <hi>David,</hi> though a mighty man of War, yet humbled himſelf and wept for ſin, counting it no diſhonourable imputation of Ef<g ref="char:EOLhyphen"/>feminacy. To which he excellently replied, and above what could be exprected from his Education, That Soul<g ref="char:EOLhyphen"/>diers indeed ought to be men of Courage; but, alas, ſaid he, there is no Valour againſt God: for to him we muſt all bow in an humble Confeſſion: And therefore he was not at all aſham'd to weep for ſin, for he felt the Anguiſh of it, but hoped that his Repentance was <hi>Heart-deep,</hi> as well as his Eyes moiſtened with Tears; counting that no Faint-heartedneſs at the approach of Death; but rather deſired to ſhew himſelf a man in Chriſt, than one that, pretending to imitate a Roman Courage, outfaces Death with a ſtupid ignorance of a future Judgment.</p>
+            <p>Another ſtood Condemn'd for a Burglary, and ſtealing 415 <hi>l.</hi> He confeſs'd that he ſerved five years an Apprentiſhip to a Poulterer; but being corrected for Miſcarriages, deſerted his Maſter, and afterwards ad<g ref="char:EOLhyphen"/>dicted himſelf to bad Company: amongſt whom he learnt to prophane the Sabbath, Drink to exceſs, Swear, <hi>&amp;c.</hi> So that he ſoon became a grand Proficient in wickedneſs. He expreſs'd good degrees of Remorſe for all his ſins, and particularly for his unjuſt folly in leaving his Maſter and lawful Employment: Upon which he was inticed, for a ſmall Reward, to aſſiſt the principal Burglarian (who is fled from Juſtice) in car<g ref="char:EOLhyphen"/>rying part of the Money as far as <hi>Deal;</hi> where being diſmiſs'd, on his return to Town he was apprehended, and now Convicted but obtain'd a Reprieve.</p>
+            <p>
+               <hi>Thomas Benfield</hi> Suffer'd for a Burglary, which he
+<pb n="8" facs="tcp:99368:5"/>ingeniouſly Confeſs'd, and much lamented; as alſo thoſe leading ſins, Sabbath-Profanation, Swearing, Debaucht Company, <hi>&amp;c.</hi> all which he expreſs'd him<g ref="char:EOLhyphen"/>ſelf heartily ſorry for.</p>
+            <p>
+               <hi>Sarah Dent</hi> was Executed for Murthering of her Baſtard-Child, which ſhe acknowledged; and that the perſon that begot it was her Fellow-Servant; who being ſince dead, ſhe partly out of Diſtruſt of Providence, as not knowing how to maintain it, and partly to cover her Shame, added Murther to Un<g ref="char:EOLhyphen"/>cleanneſs, and made away with it. She much be<g ref="char:EOLhyphen"/>wailed that in her youth ſhe had neglected to learn to read; whereby from God's Word ſhe might have received Inſtruction, and now under this Calamity Directions and Comfort, having been lamentably ignorant of God and her Duty, till now awakened with the Sentence of Death; Yet profeſſed a deep ſenſe of her bloody, unnatural Crime. And Mr. Or<g ref="char:EOLhyphen"/>dinary deſiring her that ſhe would let him hear what ſhe prayed to God for, ſince ſome Convictions were wrought in her; ſhe did pray in his hearing (apart from the reſt) very well, and fervently, in expreſſions ſuitable to her Crime and Condition, with much Self-abhorrency and brokenneſs of heart, to the beſt of his apprehenſion.</p>
+            <p>At the place of Execution they freely declared their Crimes, begged Pardon of God, and deſired all that were preſent, or of their Acquaintance, or that ſhould hear of their ſhamefull End, thereby to take warning to avoid the like Crimes, and amend their Lives.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99368:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
